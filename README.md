@@ -72,11 +72,11 @@ streamlit run app.py
 
 ## 🔗 Links
 
-| Plataforma | Link                                                      |
-|---|-----------------------------------------------------------|
-| 📁 GitHub | [https://github.com/UNI-MichelSoares/projeto-streaming](#) |
-| 🌐 GitHub Pages | [https://uni-michelsoares.github.io/projeto-streaming/](#) |
-| 📊 Streamlit App | [https://projeto-streaming.streamlit.app/](#)                                                     |
+| Plataforma | Link                                                                         |
+|---|------------------------------------------------------------------------------|
+| 📁 GitHub | [Acessar Repositório](https://github.com/UNI-MichelSoares/projeto-streaming) |
+| 🌐 GitHub Pages | [Acessar Site](https://uni-michelsoares.github.io/projeto-streaming/)        |
+| 📊 Streamlit App | [Acessar Dashboard Streamlit](https://projeto-streaming.streamlit.app/)      |
 
 ---
 
