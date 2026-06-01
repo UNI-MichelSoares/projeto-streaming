@@ -1,5 +1,9 @@
 # 🎬 Análise de Streaming no Brasil — 2015 a 2024
-### Projeto G2 · Tema 21
+### Projeto G2 · Tema 21 - Linguagens de Programação
+
+## Professor
+
+- Alexandre Neves Louzada
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35-red?logo=streamlit)
@@ -92,5 +96,10 @@ streamlit run app.py
 | Jupyter Notebook | Análise exploratória |
 
 ---
+
+## Integrantes
+
+- Michel de Souza Soares
+- Nicollas Gonçalves Vilela
 
 *Projeto G2 · Tema 21 · Análise de Streaming no Brasil*
