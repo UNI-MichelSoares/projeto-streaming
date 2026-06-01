@@ -313,8 +313,8 @@ else:
 
 st.markdown("---")
 
-# ── Conclusão executiva ────────────────────────────────────────────────────
-st.markdown('<p class="section-title">✅ Conclusão Executiva</p>', unsafe_allow_html=True)
+# ── Interpretações Finais ────────────────────────────────────────────────────
+st.markdown('<p class="section-title">Interpretações Finais</p>', unsafe_allow_html=True)
 
 plat_receita_top = df.groupby("plataforma")["receita_plataforma"].sum().idxmax()
 genero_mais = df.groupby("genero")["reproducoes"].sum().idxmax()
@@ -343,3 +343,4 @@ Esses padrões são essenciais para orientar decisões estratégicas de platafor
 
 st.markdown("<br><br>", unsafe_allow_html=True)
 st.caption("📊 Projeto G2 · Tema 21 · Análise de Streaming no Brasil · Dados simulados (2015–2024)")
+st.caption("Michel de Souza Soares e Nicollas Gonçalves Vilela")
